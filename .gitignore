@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+
+*.log
+npm-debug.log*
+
+.DS_Store
+Thumbs.db
+.vscode/
+
+coverage/
+
+*.tmp
